@@ -248,7 +248,7 @@ namespace AutoUpdater.ViewModels
         {
             Thread.Sleep(1000);
             var md5 = Utility.GetFileMD5(fileName);
-            if (!UpdateInfo.FileMd5.Equals(md5))
+            if (!UpdateInfo.FileMd5.ToUpper().Equals(md5.ToUpper()))
             {
                 StatusDescription = "更新失败，更新文件MD5码不一致！";
                 Loger.Print("Update file MD5 inconsistent. ");
