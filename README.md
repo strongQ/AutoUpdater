@@ -1,5 +1,5 @@
 <div align="center">
-![image](http://github.com/JusterZhu/AutoUpdater/img/jc_update.png)
+![](http://github.com/JusterZhu/AutoUpdater/img/jc_update.png)
 </div>
 
 ---------------------
