@@ -1,11 +1,8 @@
 <div align="center">
-![](http://github.com/JusterZhu/AutoUpdater/img/jc_update.png)
+![image](http://github.com/JusterZhu/AutoUpdater/img/jc_update.png)
 </div>
 
 ---------------------
-
-本文来自 麦田 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/itmyhome1990/article/details/48765703?utm_source=copy 
-
 ## WPF AutoUpdater
 
 ### Description:
