@@ -7,6 +7,7 @@
     This is a Wpf-based automatic update application to help developers better complete the update function.
   </p>
 </div>
+
 ## WPF AutoUpdater
 
 ### Description:
