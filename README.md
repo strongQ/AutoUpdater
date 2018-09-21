@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://github.com/WELL-E/AutoUpdater">
-     <img alt="JC Update" width="200" heigth="200" src="https://raw.githubusercontent.com/WELL-E/AutoUpdater/master/img/jc_update.png"></img>
+     <img alt="JC Update" width="200" heigth="200" src="https://raw.githubusercontent.com/WELL-E/AutoUpdater/master/img/jc_update_new.png"></img>
    </a>
   <h1>JC update</h1>
  <p>
