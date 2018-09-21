@@ -10,8 +10,6 @@
 
 ---------------------
 
-## WPF AutoUpdater
-
 ### Description:
 
 WPF+MVVM实现的自动更新程序
