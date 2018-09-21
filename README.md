@@ -1,5 +1,7 @@
 <div align="center">
-![image](http://github.com/JusterZhu/AutoUpdater/img/jc_update.png)
+   <a href="https://github.com/WELL-E/AutoUpdater">
+     <img alt="JC Update" width="200" heigth="200" src="https://raw.githubusercontent.com/WELL-E/AutoUpdater/master/img/jc_update.png"></img>
+   </a>
 </div>
 
 ---------------------
