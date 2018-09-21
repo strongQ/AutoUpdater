@@ -1,3 +1,11 @@
+<div align="center">
+![image](http://github.com/JusterZhu/AutoUpdater/img/jc_update.png)
+</div>
+
+---------------------
+
+本文来自 麦田 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/itmyhome1990/article/details/48765703?utm_source=copy 
+
 ## WPF AutoUpdater
 
 ### Description:
@@ -34,7 +42,7 @@ WPF+MVVM实现的自动更新程序
 如有什么疑问，加QQ群130108655
 
 ### Special thanks:
-@[zhuzhen723723](https://github.com/zhuzhen723723)
+@[JusterZhu](https://github.com/JusterZhu)
 
 ### Acknowledgements:
 
