@@ -1,10 +1,14 @@
 <div align="center">
-![image](http://github.com/JusterZhu/AutoUpdater/img/jc_update.png)
+   <a href="https://github.com/WELL-E/AutoUpdater">
+     <img alt="JC Update" width="200" heigth="200" src="https://raw.githubusercontent.com/WELL-E/AutoUpdater/master/img/jc_update.png"></img>
+   </a>
+  <h1>JC update</h1>
+ <p>
+    This is a Wpf-based automatic update application to help developers better complete the update function.
+  </p>
 </div>
 
 ---------------------
-
-本文来自 麦田 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/itmyhome1990/article/details/48765703?utm_source=copy 
 
 ## WPF AutoUpdater
 
