@@ -2,7 +2,6 @@
    <a href="https://github.com/WELL-E/AutoUpdater">
      <img alt="JC Update" width="200" heigth="200" src="https://raw.githubusercontent.com/WELL-E/AutoUpdater/master/img/jc_update_new.png"></img>
    </a>
-  <h1>JC update</h1>
  <p>
     This is a Wpf-based automatic update application to help developers better complete the update function.
   </p>
