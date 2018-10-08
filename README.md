@@ -55,3 +55,19 @@ If you have any questions，QQ Group:130108655
 
 Open sourced under the MIT license.
 
+### 使用方法
+  
+  
+        string ClientProcessName= AppDomain.CurrentDomain.BaseDirectory + "AutoUpdater.exe"          
+        Process process = new Process();
+            string currentVersion = "2.0.0.1";
+            string newVersion = "2.0.0.1";
+            string UpdateLogUrl = "http://172.6.65.167/newLog.txt";
+            string UpdateFileUrl = "http://172.6.65.167/Debug.zip";
+            string unpackPath =AppDomain.CurrentDomain.BaseDirectory;
+            process.StartInfo.FileName = ClientProcessName;
+            process.StartInfo.UseShellExecute = false;
+            process.StartInfo.CreateNoWindow = true;
+            process.StartInfo.Arguments = $"{ currentVersion} {newVersion} {UpdateLogUrl} {UpdateFileUrl} {unpackPath} xx";
+            process.Start();
+
